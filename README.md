@@ -1,2 +1,2 @@
-# iso-build
-Build the live/installer iso
+# kiln
+Build the live/installer iso with `archiso`
