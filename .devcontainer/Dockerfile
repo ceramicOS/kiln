@@ -1,6 +1,6 @@
 # gracefully "borrowed" from https://github.com/bartventer/devcontainer-images/blob/master/src/base-archlinux/.devcontainer/Dockerfile
 ARG VARIANT="latest"
-FROM archlinux/archlinux:${VARIANT}
+FROM docker.io/archlinux/archlinux:${VARIANT}
 
 # LABEL org.opencontainers.image.title="Arch Linux Base Image"
 # LABEL org.opencontainers.image.source="https://github.com/bartventer/devcontainer-images"
