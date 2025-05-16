@@ -81,6 +81,8 @@ wpa_supplicant
 
 ### system
 # essentials
+bash
+bash-completion
 man-db
 man-pages
 less
